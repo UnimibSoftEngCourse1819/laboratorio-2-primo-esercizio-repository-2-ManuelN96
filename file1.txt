@@ -1,0 +1,13 @@
+#First document
+
+Initial content of the first document
+Additional content of the first document
+
+
+#Second document
+ Please see file2.txt for the second document
+
+##Third document
+
+please see file3
+
